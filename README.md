@@ -2,7 +2,7 @@
 
 Hello world, this is my profile
 
-A driven Data Analyst with a strong foundation in quantitative analysis and data presentation
+I'm a driven Data Analyst with a strong foundation in quantitative analysis and data presentation
 Part of my job function included:
 
 Implementing financial principle
