@@ -6,8 +6,8 @@ I'm a driven Data Analyst with a strong foundation in quantitative analysis and 
 
 Part of my job function included:
 
-Implementing financial principle
-Evaluation of customer satisfaction
+- Implementing financial principle
+- Evaluation of customer satisfaction
 Departmental audit
 Analysing and interprinting financial data
 Reporting to higher management
