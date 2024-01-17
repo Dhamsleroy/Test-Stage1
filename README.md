@@ -8,9 +8,9 @@ Part of my job function included:
 
 - Implementing financial principle
 - Evaluation of customer satisfaction
-Departmental audit
-Analysing and interprinting financial data
-Reporting to higher management
+- Departmental audit
+- Analysing and interprinting financial data
+- Reporting to higher management
 
-I am currently working on a test project
-i am currently learning to set up my git profile
+- I am currently working on a test project
+- I am currently learning to set up my git profile
